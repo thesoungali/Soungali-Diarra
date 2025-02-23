@@ -118,11 +118,3 @@ router.post<!DOCTYPE html>
 </body>
 </html>
 
-http://localhost:5000/api/auth/signuphttps://soungali-diarra-f45e3-default-rtdb.firebaseio.comhttps://soungali-diarra-f45e3-default-rtdb.firebaseio.comvar admin = require("firebase-admin");
-
-var serviceAccount = require("path/to/serviceAccountKey.json");
-
-admin.initializeApp({
-  credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://soungali-diarra-f45e3-default-rtdb.firebaseio.com"
-});

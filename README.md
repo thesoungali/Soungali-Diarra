@@ -1,2 +1,2 @@
-# Soungali-s
+# Soungali Diarra
 Réseau social afrofuturiste avec moodboards émotionnels, bots créatifs et ambiance musicale.
